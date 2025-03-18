@@ -5,7 +5,7 @@ A machine learning model that detects fake news using TensorFlow and NLP techniq
 ## Requirements
 - Python 3.12+
 - Required packages in requirements.txt
-- Dataset files (not included in repo)
+- Dataset files (not included in repo, can be downloaded from: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
 
 ## Setup
 1. Clone the repository
